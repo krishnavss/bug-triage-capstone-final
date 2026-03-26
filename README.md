@@ -1,6 +1,6 @@
 # Automated Bug Triage Using NLP
 
-**Link to Jupyter Notebook:** [Insert Link Here]
+**Link to Jupyter Notebook:** [(https://github.com/krishnavss/bug-triage-capstone-final/blob/main/24.Final_Report.ipynb)]
 
 ## 1. The Problem
 **Research Question:** Can we accurately predict the appropriate engineering
